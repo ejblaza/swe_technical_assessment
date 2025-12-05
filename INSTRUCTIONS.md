@@ -5,7 +5,7 @@ Preface: I attempted to fulfill the requirements of this assessment with the bes
 ---
 
 ## Demo Video
-https://www.loom.com/share/a14173aab3c3422c8688206b47d60807
+* https://www.loom.com/share/a14173aab3c3422c8688206b47d60807
 ---
 
 ## Version Stack
